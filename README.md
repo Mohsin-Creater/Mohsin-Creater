@@ -14,9 +14,6 @@
   <a href="mailto:ranamohsin11874@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://www.instagram.com/__m0hsin_/)" target="_blank">
-     <img src="https://c.files.bbci.co.uk/C5CC/production/_89663605_instagram_logo_976.jpg" />
-  </a>
   <a href="https://www.linkedin.com/in/mohsin-ahmed-56243a268/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
